@@ -1,6 +1,6 @@
 # Power-aware real-time scheduling on a homogeneous multicore
 
-Project 3 — scheduling hard periodic and soft aperiodic tasks under a TDP budget with per-core
+Scheduling hard periodic and soft aperiodic tasks under a TDP budget with per-core
 DVFS.
 
 - **Phase 1** — task generation and the complete baseline method (genetic algorithm + slack
